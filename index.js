@@ -1,5 +1,5 @@
 
-import "./config.js"
+import "./config/config.js"
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
 
